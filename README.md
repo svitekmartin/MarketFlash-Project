@@ -1,13 +1,10 @@
-
-
-
 # Project Tasks & Deliverables
 
-Day 1:
+**Day 1:**
 
 -   Design an ERD (Entity Relationship Diagram / Crow’s Foot)
 
-Day 2: Functional ER Diagram & Code the Database in SQL
+**Day 2: Functional ER Diagram & Code the Database in SQL**
 
 -   Create a Functional ER Diagram for the Database based on the above Entities
 
